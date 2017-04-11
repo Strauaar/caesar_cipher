@@ -1,0 +1,1 @@
+An exercise from The Odin Project that takes a two arguments, one string(the phrase) and one integer(the offset) and "codes" them using the caesar cipher. If the character is "a" and the offset is 1, the letter goes 1 backward in the alphabet which results in all "a"'s becoming "z"'s and so on.
